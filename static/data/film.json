@@ -1,0 +1,95 @@
+[
+	{
+		"filmType":"影院热映",
+		"filmId":1,
+		"ggPic":"https://oimageb2.ydstatic.com/image?id=6048731234737046475&product=adpublish&w=950&h=90",
+		"ggTxt":"康熙合体,小s放飞自我，白眼怒对恶评",
+		"filmContent":[
+			{
+				"filmPic":"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2485983612.jpg",
+				"filmName":"战狼2",
+				"filmLevel":7.5
+			},
+			{
+				"filmPic":"https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2493892158.jpg",
+				"filmName":"建军大业",
+				"filmLevel":"暂无评分"
+			},
+			{
+				"filmPic":"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2490966346.jpg",
+				"filmName":"大耳朵图图之美食狂",
+				"filmLevel":"暂无评分"
+			},
+			{
+				"filmPic":"https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2492665487.jpg",
+				"filmName":"绣春刀2",
+				"filmLevel":7.6
+			},
+			{
+				"filmPic":"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2469070974.jpg",
+				"filmName":"神偷奶爸3",
+				"filmLevel":7.0
+			},
+			{
+				"filmPic":"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2494279975.jpg",
+				"filmName":"豆福传",
+				"filmLevel":7.0
+			},{
+				"filmPic":"https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2475060299.jpg",
+				"filmName":"悟空传",
+				"filmLevel":7.0
+			},{
+				"filmPic":"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2494279492.jpg",
+				"filmName":"闪光少女",
+				"filmLevel":7.0
+			}
+		]
+	},
+	{
+		"filmType":"院线即将上映",
+		"filmId":2,
+		"ggPic":"https://oimageb2.ydstatic.com/image?id=6048731234737046475&product=adpublish&w=950&h=90",
+		"ggTxt":"豆瓣帆布包，热卖中",
+		"filmContent":[
+			{
+				"filmPic":"https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2494120787.jpg",
+				"filmName":"神灵寨",
+				"showTime":"07月31日上映 "
+			},
+			{
+				"filmPic":"https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2494279388.jpg",
+				"filmName":"三生三世十里桃花",
+				"showTime":"08月03日上映 "
+			},
+			{
+				"filmPic":"https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2469808920.jpg",
+				"filmName":"谁是球王",
+				"showTime":"08月03日上映 "
+			},
+			{
+				"filmPic":"https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2469843751.jpg",
+				"filmName":"龙之战",
+				"showTime":"08月04日上映 "
+			},
+			{
+				"filmPic":"https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2455805686.jpg",
+				"filmName":"我是马不里",
+				"showTime":"08月04日上映 "
+			},
+			{
+				"filmPic":"https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2493912545.jpg",
+				"filmName":"大象林旺之一炮",
+				"showTime":"08月04日上映 "
+			},{
+				"filmPic":"https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2492870282.jpg",
+				"filmName":"原罪的羔羊",
+				"showTime":"08月04日上映 "
+			},{
+				"filmPic":"https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2494181189.jpg",
+				"filmName":"诡计",
+				"showTime":"08月04日上映 "
+			}
+		]
+	}
+	
+]
